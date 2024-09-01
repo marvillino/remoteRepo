@@ -3,7 +3,16 @@
 3-manchester united
 4-liverpool
 5-elnassr
+<<<<<<< HEAD
 6-dfbas
 7-dngf
 8-
 9-
+=======
+6-chelsea
+7-madrid
+8-barcelona
+9-atletico
+10-betis
+11-sevillia
+>>>>>>> refs/remotes/origin/master
